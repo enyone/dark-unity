@@ -12,3 +12,5 @@ sudo apt-get update
 sudo apt-get install gnome-tweak-tool selene-theme gnome-shell-theme-selene faenza-icon-theme myunity unsettings
 ```
 Run `gnome-tweak-tool` and select `Selene` as a window and GTK theme and `Faenza-Darkest` as a icon theme.
+
+Log off and back in to activate all changes. Without doing so some applications may look weird (wrong colors etc..)
