@@ -2,3 +2,12 @@ dark-unity
 ==========
 
 Modify your Unity desktop to be more healthy to your eyes
+
+```
+sudo add-apt-repository ppa:myunity/ppa
+sudo add-apt-repository ppa:tista/selene
+sudo add-apt-repository ppa:tiheum/equinox
+sudo add-apt-repository ppa:diesch/testing
+sudo apt-get update
+sudo apt-get install gnome-tweak-tool selene-theme gnome-shell-theme-selene faenza-icon-theme myunity unsettings
+```
