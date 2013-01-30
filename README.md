@@ -11,3 +11,4 @@ sudo add-apt-repository ppa:diesch/testing
 sudo apt-get update
 sudo apt-get install gnome-tweak-tool selene-theme gnome-shell-theme-selene faenza-icon-theme myunity unsettings
 ```
+Run `gnome-tweak-tool` and select `Selene` as a window and GTK theme and `Faenza-Darkest` as a icon theme.
