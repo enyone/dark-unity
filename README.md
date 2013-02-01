@@ -17,3 +17,6 @@ Log off and back in to activate all changes. Without doing so some applications 
 
 ## Firefox
 * https://addons.mozilla.org/fi/firefox/addon/ft-deepdark/
+
+## Thunderbird
+* https://addons.mozilla.org/en-us/thunderbird/addon/tt-deepdark/
