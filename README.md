@@ -14,3 +14,6 @@ sudo apt-get install gnome-tweak-tool selene-theme gnome-shell-theme-selene faen
 Run `gnome-tweak-tool` and select `Selene` as a window and GTK theme and `Faenza-Darkest` as a icon theme.
 
 Log off and back in to activate all changes. Without doing so some applications may look weird (wrong colors etc..)
+
+## Firefox
+* https://addons.mozilla.org/fi/firefox/addon/ft-deepdark/
