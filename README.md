@@ -78,8 +78,13 @@ margin: 8px;
 }
 ```
 
-Save-as and restart Firefox.
-
+Save file and restart Firefox.
 
 ## Thunderbird
 * https://addons.mozilla.org/en-us/thunderbird/addon/tt-deepdark/
+
+## GEdit color issue
+
+Edit > Preferences > Font & Colors (tab)
+
+Select `Cobalt` or `Oblivion` as color scheme.
