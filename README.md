@@ -3,6 +3,8 @@ dark-unity
 
 Modify your Unity desktop to be more healthy to your eyes
 
+<img src="https://github.com/enyone/dark-unity/blob/master/unity-dark.png" alt="dark-unity" />
+
 ```
 sudo add-apt-repository ppa:myunity/ppa
 sudo add-apt-repository ppa:tista/selene
